@@ -1,6 +1,6 @@
 # React Template
 
-A simple template for React projects.
+A simple template for React projects. Uses *Yarn*, *Sass*, JSX naming conventions and leverages functional components. 
 
 Includes:
 * GitHub pages build script
